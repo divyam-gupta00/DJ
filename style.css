@@ -1,0 +1,38 @@
+body{
+    font-family: 'Merriweather', serif;
+    background-color: rgba(149,163,164,255);
+    color: snow;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+#opg{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+#note{
+    letter-spacing: 1px;
+}
+#maindiv{
+    background-color: rgba(226,232,221,255);
+width: 100%;
+padding-bottom: 95px ;
+color: #000000;
+
+}
+
+.rt{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+img{
+    height: 300px;
+    width: 325px;
+}
+#mname{
+    text-shadow: 2px 2px 4px #000000;
+    color: #000000;
+}
+#pop{
+    background-color: rgba(149,163,164,255);
+    top: 0px;
+    bottom: 0px;
+}
